@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "username": "Wajih@23",
+      "password": "wajih@123",
+      "phone": "",
+      "role": "supermaster",
+      "downline": "",
+      "isActive": "",
+      "reference": "",
+      "notes": "",
+      "commission": "",
+      "userDomain": "",
+      "maxsizesoccer": 30000,
+      "maxsizetennis": 0,
+      "maxsizecricket": 0,
+      "maxsizefancy": 0,
+      "maxsizeraces": 0,
+      "maxsizecasino": "",
+      "maxsizegreyhound": "",
+      "maxsizebookmaker": "",
+      "Tpin": "",
+      "CashDespositDesc": "desss",
+      "CashDespositAmount": "200",
+      "CashWithdrawDesc": "desss",
+      "CashWithdrawAmount": "",
+      "CreditDespositDesc": "ssss",
+      "CreditDespositAmount": "5000",
+      "CreditWithdrawDesc": "sss",
+      "CreditWithdrawAmount": "600",
+      "id": 4
+    },
+    {
+      "username": "Aliii69",
+      "password": "bettor56",
+      "phone": "03244509023",
+      "role": "bettor",
+      "downline": "",
+      "isActive": "",
+      "reference": "",
+      "notes": "",
+      "commission": "",
+      "userDomain": "",
+      "maxsizesoccer": 2500,
+      "maxsizetennis": 500000,
+      "maxsizecricket": "",
+      "maxsizefancy": "",
+      "maxsizeraces": "",
+      "maxsizecasino": "",
+      "maxsizegreyhound": "",
+      "maxsizebookmaker": "",
+      "Tpin": "",
+      "CashDespositDesc": "",
+      "CashDespositAmount": "",
+      "CashWithdrawDesc": "",
+      "CashWithdrawAmount": "",
+      "CreditDespositDesc": "",
+      "CreditDespositAmount": "",
+      "CreditWithdrawDesc": "",
+      "CreditWithdrawAmount": "",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
